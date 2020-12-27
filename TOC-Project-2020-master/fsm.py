@@ -148,7 +148,7 @@ class TocMachine(GraphMachine):
         
     def on_enter_show_fsm_photo(self,event):
         reply_token = event.reply_token
-        url='https://raw.githubusercontent.com/CrazyRyan0812/CrazyRyan-TOC/master/fsm.png'
+        url='https://raw.githubusercontent.com/RayChao1030/Ray_TOASTMASTER_TOC/main/TOC-Project-2020-master/fsm.png'
         send_image_message(reply_token, url)
         self.go_back()
 
