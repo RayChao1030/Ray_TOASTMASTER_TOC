@@ -36,7 +36,7 @@ werkzeug==0.16.0
 img資料夾裡有我所有的Line的截圖，每個狀態跑出來的模樣，分成中英兩部分，和最後呼叫Fast State Machine的模樣。
 
 過程中遇到非常多的問題，
-從Anaconda怎麼使用，spyder怎麼編譯卻不能Debug等等，因為多數朋友未使用WINDOWS，所以花不少力氣找答案。
+從Anaconda怎麼使用，spyder編譯卻不能Debug等等，因為多數朋友未使用WINDOWS，所以花不少力氣找答案。
 但最讓我印象深刻的是我的flask在Anaconda裡不能運作，最後發現是我呼叫的函式出錯，python app.py不能運行。呼叫flask run才可以。這問題花了我4天。
 
-最後感謝我朋友們的幫助。我才可以順利完成。
+最後感謝朋友們的幫助。我才可以順利完成。
